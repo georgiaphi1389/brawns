@@ -1,4 +1,4 @@
-/* Generated on: Mon Apr 27 2020 17:27:07 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed May 06 2020 20:29:45 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2557,7 +2557,7 @@ figcaption {
   min-height: 40px;
   padding-top: 130px;
   background-color: #eef0f4;
-  background-image: url("https://i.imgur.com/WGQTyRA.gif");
+  background-image: url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5ea629715186cf9f6e0eafdf_alexandr-iwaac-jungle-long-shot-v2-low.jpg");
   background-position: 50% 0%;
   background-size: 2000px;
   background-repeat: no-repeat;
@@ -2567,29 +2567,38 @@ figcaption {
   padding-top: 50px;
   padding-bottom: 50px;
   background-color: #355536;
+  opacity: 0.97;
   color: #fff;
 }
 
 .section.features {
+  overflow: visible;
   max-height: 200px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: transparent;
+  opacity: 1;
   text-align: center;
 }
 
 .section.free-classes {
   max-height: 0px;
   max-width: 2000px;
-  min-height: 2000px;
+  min-height: 1300px;
   padding-top: 60px;
   background-color: #fff;
-  background-image: url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5ea70c2151b60ea9a5d4869b_pW26plY.png");
-  background-position: 50% 0%;
-  background-size: 2000px;
-  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(hsla(0, 0%, 100%, 0))), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5ea70c2151b60ea9a5d4869b_pW26plY.png");
+  background-image: linear-gradient(180deg, #f5f5f5, hsla(0, 0%, 100%, 0)), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5ea70c2151b60ea9a5d4869b_pW26plY.png");
+  background-position: 0px 0px, 50% 0%;
+  background-size: auto, 2000px;
+  background-repeat: repeat, no-repeat;
 }
 
 .section.premium-classes {
   background-color: #355536;
-  background-image: url("https://i.imgur.com/WGQTyRA.gif");
+  background-image: url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5ea629715186cf9f6e0eafdf_alexandr-iwaac-jungle-long-shot-v2-low.jpg");
   background-position: 100% 0%;
   background-size: 50vw;
   background-repeat: no-repeat;
@@ -5220,6 +5229,7 @@ figcaption {
 }
 
 .heading {
+  margin-top: 220px;
   border: 1px none #000;
   border-radius: 0px;
   font-family: 'Permanent Marker', sans-serif;
@@ -5342,6 +5352,127 @@ figcaption {
 .bold-text-2 {
   font-family: 'Permanent Marker', sans-serif;
   font-size: 24px;
+}
+
+.section-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 900px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(46, 80, 46, 0.5)), to(rgba(46, 80, 46, 0.5))), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-image: linear-gradient(180deg, rgba(46, 80, 46, 0.5), rgba(46, 80, 46, 0.5)), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-position: 0px 0px, 50% 0%;
+  background-size: auto, auto 2000px;
+  background-repeat: repeat, no-repeat;
+}
+
+.container-2 {
+  min-height: 400px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: rgba(46, 156, 252, 0.55);
+}
+
+.container-3 {
+  min-height: 800px;
+  padding-top: 140px;
+  background-color: rgba(7, 10, 14, 0.5);
+}
+
+.div-block {
+  min-height: 400px;
+}
+
+.container-4 {
+  max-width: 1000px;
+  min-height: 300px;
+  border: 0px solid #000;
+  background-color: rgba(59, 114, 172, 0);
+}
+
+.heading-2 {
+  font-family: 'Permanent Marker', sans-serif;
+  color: #f5f5f5;
+  font-size: 200px;
+  text-align: center;
+  text-shadow: 1px 1px 6px #000;
+}
+
+.text-block-6 {
+  color: #f5f5f5;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 1px 1px 6px #000;
+}
+
+.section-3 {
+  min-height: 400px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.container-5 {
+  min-height: 200px;
+}
+
+.column-9 {
+  min-height: 200px;
+}
+
+.column-10 {
+  min-height: 200px;
+}
+
+.column-11 {
+  min-height: 200px;
+}
+
+.column-12 {
+  min-height: 200px;
+}
+
+.image-2 {
+  min-height: 200px;
+  min-width: 200px;
+  padding-left: 100px;
+}
+
+.column-13 {
+  min-height: 200px;
+}
+
+.column-14 {
+  min-height: 200px;
+}
+
+.column-15 {
+  min-height: 200px;
+}
+
+.column-16 {
+  min-height: 200px;
+}
+
+.text-block-7 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.section-4 {
+  min-height: 300px;
+  background-color: rgba(63, 87, 62, 0.89);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 109, 29, 0.51)), to(rgba(47, 109, 29, 0.51))), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-image: linear-gradient(180deg, rgba(47, 109, 29, 0.51), rgba(47, 109, 29, 0.51)), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-position: 0px 0px, 0px 0px;
+  background-size: auto, 2000px;
+  background-repeat: repeat, no-repeat;
 }
 
 @media screen and (max-width: 991px) {
@@ -5949,6 +6080,24 @@ figcaption {
 }
 
 #w-node-1ecf5c1e630e-c8312e71 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-7fb23bb3f8d4-c8312e71 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-7fb23bb3f8e5-c8312e71 {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
