@@ -5365,8 +5365,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(46, 80, 46, 0.5)), to(rgba(46, 80, 46, 0.5))), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
-  background-image: linear-gradient(180deg, rgba(46, 80, 46, 0.5), rgba(46, 80, 46, 0.5)), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(46, 80, 46, 0.5)), to(rgba(46, 80, 46, 0.5))), url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/elehant_16x9.jpg?itok=oPJXArDV");
+  background-image: linear-gradient(180deg, rgba(46, 80, 46, 0.5), rgba(46, 80, 46, 0.5)), url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/elehant_16x9.jpg?itok=oPJXArDV");
   background-position: 0px 0px, 50% 0%;
   background-size: auto, auto 2000px;
   background-repeat: repeat, no-repeat;
@@ -5469,8 +5469,8 @@ figcaption {
 .section-4 {
   min-height: 150px;
   background-color: rgba(63, 87, 62, 0.89);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.81)), to(rgba(255, 255, 255, 0.81))), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
-  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.81), rgba(255, 255, 255, 0.81)), url("https://uploads-ssl.webflow.com/5ea621f2c07d78da9e3f8728/5eb2375aca48d1572e581251_HardtofindForthrightBellfrog-size_restricted.gif");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.81)), to(rgba(255, 255, 255, 0.81))), url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/elehant_16x9.jpg?itok=oPJXArDV");
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.81), rgba(255, 255, 255, 0.81)), url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/elehant_16x9.jpg?itok=oPJXArDV");
   background-position: 0px 0px, 50% 0%;
   background-size: auto, 2000px;
   background-repeat: repeat, no-repeat;
